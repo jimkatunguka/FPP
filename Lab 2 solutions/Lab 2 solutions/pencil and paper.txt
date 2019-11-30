@@ -1,0 +1,20 @@
+1. socialSecurityStatus = (age>65)?
+				eligible:ineligible;
+
+2. a). f
+   b). 15
+   c). llo, st
+       o, strings can be fun. They have very many uses.
+
+3. a). A = Math.PI * Math.pow(r, 2);
+   b). diag = Math.sqrt((Math.pow(len, 2) + (Math.pow(wid, 2)));
+
+4. a). equals 1 of type int
+   b). equals 5 of type int
+   c). equals 8 of type int
+   d). equals 33 of type int
+
+5. The statement a=(b=5) is legal.
+   Variable a is assigned a value 5.
+   This is possible if the variable b was already declared.
+   Since b is already assigned a value 5 as shown by the parenthesis which take precedence over the assignment(=) sign.

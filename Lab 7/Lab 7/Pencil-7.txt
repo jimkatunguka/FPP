@@ -1,0 +1,14 @@
+1) 
+d. Stack overflow error
+
+Reason: 
+Since there is no base case, 
+it will implement until all the memory is used up
+
+2) d. 
+Stack overflow error
+Reason: 
+when the method "recurse" is called, 
+the argument does not reduce the string length
+therefore the base case will never be satisfied. 
+it will implement until all the memory is used up
